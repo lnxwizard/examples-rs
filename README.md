@@ -1,2 +1,2 @@
 # examples.rs
- Code Examples  for Beginner Rust Developers.
+ Code Examples for Beginner Rust Developers.
