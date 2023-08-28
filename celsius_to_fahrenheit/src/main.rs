@@ -1,3 +1,16 @@
+/*
+    Author: Alper Akça (lnxwizard)
+    License: GPLv3
+
+    Requirements:
+
+    I recommend completing the following be completed before beginning this example:
+    - Variables and Mutability
+    - Data Types
+    - Control Flow (If-Else)
+    - Functions
+*/
+
 use std::io;
 use std::process;
 
