@@ -18,12 +18,14 @@ fn main() {
     println!("Please select a operation below:\n");
     println!("1: Celsius to Fahrenheit\n2: Fahrenheit to Celsius\n3: Exit\n");
 
+    // getting the user's input for the operation
     let mut operation = String::new();
     io::stdin()
         .read_line(&mut operation)
         .expect("Failed to get operation!");
     let operation: u8 = operation.trim().parse().expect("Enter number!");
 
+    // processing the user's input
     if operation == 1 {
         println!("Result: {}", celsius_to_fahrenheit())
     } else if operation == 2 {
@@ -35,6 +37,7 @@ fn main() {
     }
 }
 
+// this function converts Celsius to Fahrenheit.
 fn celsius_to_fahrenheit() -> f64 {
     println!("Enter Celsius Value:");
     let mut celsius = String::new();
@@ -46,6 +49,7 @@ fn celsius_to_fahrenheit() -> f64 {
     celsius * 1.8000 + 32.0
 }
 
+// this function converts Fahrenheit to Celsius.
 fn fahrenheit_to_celsius() -> f64 {
     println!("Enter Fahrenheit Value:");
     let mut fahrenheit = String::new();
