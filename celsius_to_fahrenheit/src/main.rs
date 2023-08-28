@@ -1,5 +1,5 @@
 /*
-    Author: Alper Akça (lnxwizard)
+    Author: Alper Akça (lnxwizard) <alperakca79@outlook.com>
     License: GPLv3
 
     Requirements:
