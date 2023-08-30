@@ -10,3 +10,5 @@ target/
 *.pdb
 
 billing_system
+
+.vscode
