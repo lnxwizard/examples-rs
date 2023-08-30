@@ -10,3 +10,7 @@ target/
 *.pdb
 
 billing_system
+
+prime_number
+
+factorial
