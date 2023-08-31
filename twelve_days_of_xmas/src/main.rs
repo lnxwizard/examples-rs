@@ -12,6 +12,7 @@
 */
 
 fn main() {
+    // define lyrics
     let days: [&str; 12] = [
         "a partridge in a pear tree",
         "two turtle doves",

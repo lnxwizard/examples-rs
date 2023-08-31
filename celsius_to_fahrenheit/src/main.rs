@@ -15,6 +15,7 @@ use std::io;
 use std::process;
 
 fn main() {
+    // print available operations
     println!("Please select a operation below:\n");
     println!("1: Celsius to Fahrenheit\n2: Fahrenheit to Celsius\n3: Exit\n");
 
