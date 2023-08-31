@@ -1,3 +1,16 @@
+/*
+    Author: Alper Akça <alperakca79@outlook.com>
+    License: GPLv3
+
+    Requirements:
+
+    I recommend completing the following be completed before beginning this example:
+    - Variables and Mutability
+    - Data Types (array, &str, integers)
+    - Control Flow (for loop)
+    - Functions
+*/
+
 fn main() {
     let days: [&str; 12] = [
         "a partridge in a pear tree",
