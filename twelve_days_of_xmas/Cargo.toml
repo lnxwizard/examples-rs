@@ -1,4 +1,5 @@
 [package]
+author = "Alper Akça <alperakca79@outlook.com>"
 name = "twelve_days_of_xmas"
 version = "0.1.0"
 edition = "2021"
