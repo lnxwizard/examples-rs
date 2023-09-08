@@ -1,5 +1,5 @@
 [package]
-author = "Alper Akça <alperakca79@outlook.com>"
+authors = ["Alper Akça <alperakca79@outlook.com>"]
 name = "factorial"
 version = "0.1.0"
 edition = "2021"

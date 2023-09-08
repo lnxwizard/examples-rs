@@ -1,5 +1,5 @@
 [package]
-author = "Alper Akça <alperakca79@outlook.com>"
+authors = ["Alper Akça <alperakca79@outlook.com>"]
 name = "sum_all_numbers_in_range"
 version = "0.1.0"
 edition = "2021"
