@@ -9,6 +9,15 @@ target/
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
 
-billing_system
+# Unfinished example projects
+billing_system/
 
-.vscode
+binary_search/
+
+count_vowels/
+
+# VSCode
+.vscode/
+
+# IntelliJ IDEA based IDE's
+.idea/
