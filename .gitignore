@@ -11,10 +11,7 @@ target/
 
 # Unfinished example projects
 billing_system/
-
 binary_search/
-
-count_vowels/
 
 # VSCode
 .vscode/
